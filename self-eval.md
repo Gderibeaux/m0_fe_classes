@@ -1,5 +1,5 @@
 # Self Evaluation
 
-- This final CFU encompassed everything you've learned in Mod 0, and maybe even required some learning outside of what you've explicitly been taught. How did it feel as you faced these challenges?
-- How is your workflow going, in terms of taking breaks, staying focused, etc.?
-- What do you need to do to be ready for intense technical lessons and challenges like this, for 6 hours/day next week? What support do you need?
+- This final CFU encompassed everything you've learned in Mod 0, and maybe even required some learning outside of what you've explicitly been taught. How did it feel as you faced these challenges? It was tough but when I sat down and actually had a lot of time in the day I got to understand a lot more. Im still struggling with the vocab terms but I believe by mod 1 i should have them all down.
+- How is your workflow going, in terms of taking breaks, staying focused, etc.? Workflow has been crazy; I'm still currently in college until July 29 so I have been doing work for turing and my college classes so I can graduate. I believe once i graduate college this July and only have to focus on turing I think I will be able to understand and be better at keeping up with my assingments.
+- What do you need to do to be ready for intense technical lessons and challenges like this, for 6 hours/day next week? What support do you need? I need atleast a few hours with a good explanation of the topic. If I have a video to watch of someone doing examples of the topic my time should reduce to atleast half.
